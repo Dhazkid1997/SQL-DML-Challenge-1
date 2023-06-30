@@ -43,7 +43,7 @@ WHERE
 
 /*4. Write a SQL query to retrieve the top 3 most common symptoms among all visits.*/
 SELECT 
-    symptoms.symptom_name, COUNT (visits.symptom_id) AS no_of_visits
+    symptoms.symptom_name, COUNT(visits.symptom_id) AS no_of_visits
 FROM 
     symptoms
 RIGHT JOIN 
