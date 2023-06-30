@@ -16,7 +16,7 @@ GROUP BY
 /*2. Write a SQL query to retrieve the number of visits made by each patient, 
 ordered by the number of visits in descending order.*/
 SELECT DISTINCT 
-    patients.patient_name, COUNT (visits.patient_id) AS no_of_visit, patients.patient_id
+    patients.patient_name, COUNT(visits.patient_id) AS no_of_visit, patients.patient_id
 FROM 
     visits
 INNER JOIN 
