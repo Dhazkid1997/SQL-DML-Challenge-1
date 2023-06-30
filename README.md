@@ -40,7 +40,10 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 
 ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/6518332e-1ef4-4373-bb70-fba8f219bfa2)
 
-5. Cough, Fever and Fatigue are the top 3 most common symptoms among all visits.
+4. Cough, Fever and Fatigue are the top 3 most common symptoms among all visits.
+
+  ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/7689c252-d72c-4d02-9331-8ba2278929f4)
+
 6. John Smith and Mike Johnson have the highest number of different symptoms reported.
 7. 40 is the percentage of patients who have been diagnosed with COVID-19 out of the total number of patients.
 8. Seattle, Miami and Chicago are the top 5 cities with the highest number of visits.
