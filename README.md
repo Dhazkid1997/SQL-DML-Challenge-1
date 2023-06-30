@@ -36,7 +36,10 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 
 ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/752873b0-2af4-4efe-86b3-e71b1657a7c2)
 
-4. 50 years is the average age of a patient diagnosed with Pneumonia.
+3. 50 years is the average age of a patient diagnosed with Pneumonia.
+
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/6518332e-1ef4-4373-bb70-fba8f219bfa2)
+
 5. Cough, Fever and Fatigue are the top 3 most common symptoms among all visits.
 6. John Smith and Mike Johnson have the highest number of different symptoms reported.
 7. 40 is the percentage of patients who have been diagnosed with COVID-19 out of the total number of patients.
