@@ -29,12 +29,17 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 ----
 # Findings and Recommendations
 1. David Kim and John Smith were diagnosed with COVID-19.
+
+![1](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/b7db01fa-af29-4de7-ac19-720ab113df08)
+
 2. John Smith and Mike Johnson visited 3 times, Jane Doe visited twice, and others visited once.
-3. 50 years is the average age of a patient diagnosed with Pneumonia.
-4. Cough, Fever and Fatigue are the top 3 most common symptoms among all visits.
-5. John Smith and Mike Johnson have the highest number of different symptoms reported.
-6. 40 is the percentage of patients who have been diagnosed with COVID-19 out of the total number of patients.
-7. Seattle, Miami and Chicago are the top 5 cities with the highest number of visits
-8. Mike Johnson is the patient that has the highest number of visits in a single day (2022-05-20).
-9. The descending order of average age of patients for each diagnosis started from COVID-19 (52.5) and ends with Bronchitis (30).
-10. The cumulative count of each visit over time was analyzed.
+
+
+4. 50 years is the average age of a patient diagnosed with Pneumonia.
+5. Cough, Fever and Fatigue are the top 3 most common symptoms among all visits.
+6. John Smith and Mike Johnson have the highest number of different symptoms reported.
+7. 40 is the percentage of patients who have been diagnosed with COVID-19 out of the total number of patients.
+8. Seattle, Miami and Chicago are the top 5 cities with the highest number of visits.
+9. Mike Johnson is the patient that has the highest number of visits in a single day (2022-05-20).
+10. The descending order of average age of patients for each diagnosis started from COVID-19 (52.5) and ends with Bronchitis (30).
+11. The cumulative count of each visit over time was analyzed.
