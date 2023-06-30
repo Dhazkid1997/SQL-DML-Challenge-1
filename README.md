@@ -34,6 +34,7 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 
 2. John Smith and Mike Johnson visited 3 times, Jane Doe visited twice, and others visited once.
 
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/752873b0-2af4-4efe-86b3-e71b1657a7c2)
 
 4. 50 years is the average age of a patient diagnosed with Pneumonia.
 5. Cough, Fever and Fatigue are the top 3 most common symptoms among all visits.
