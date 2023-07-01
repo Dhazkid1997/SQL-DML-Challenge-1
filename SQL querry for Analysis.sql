@@ -76,8 +76,7 @@ LIMIT
 
 /*6. Write a SQL query to calculate the percentage of patients who have been 
 diagnosed with COVID-19 out of the total number of patients.*/
-SELECT COUNT
-    (visits.diagnosis_id)/(SELECT COUNT(patients.patient_name) FROM patients) *100 AS percentage
+SELECT COUNT(visits.diagnosis_id)/(SELECT COUNT(patients.patient_name) FROM patients) *100 AS percentage
 FROM 
     visits
 JOIN 
