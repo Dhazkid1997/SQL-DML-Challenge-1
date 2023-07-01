@@ -48,7 +48,10 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 
 ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/e8b5957f-1b2d-4561-b89b-ef8b0a45f4eb)
 
-7. 40 is the percentage of patients who have been diagnosed with COVID-19 out of the total number of patients.
+6. 40 is the percentage of patients who have been diagnosed with COVID-19 out of the total number of patients.
+
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/1dab544f-dc7b-448a-b102-8ab362d60f77)
+
 8. Seattle, Miami and Chicago are the top 5 cities with the highest number of visits.
 9. Mike Johnson is the patient that has the highest number of visits in a single day (2022-05-20).
 10. The descending order of average age of patients for each diagnosis started from COVID-19 (52.5) and ends with Bronchitis (30).
