@@ -52,7 +52,7 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 
 ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/1dab544f-dc7b-448a-b102-8ab362d60f77)
 
-7. Seattle, Miami and Chicago are the top 5 cities with the highest number of visits.
+7. Seattle, Miami and Chicago are the top 3 cities with the highest number of visits(Only three (3) cities on the table).
 
 ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/8060866d-235e-41b2-8693-3f936a98954a)
 
