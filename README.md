@@ -56,6 +56,15 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 
 ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/8060866d-235e-41b2-8693-3f936a98954a)
 
-9. Mike Johnson is the patient that has the highest number of visits in a single day (2022-05-20).
-10. The descending order of average age of patients for each diagnosis started from COVID-19 (52.5) and ends with Bronchitis (30).
-11. The cumulative count of each visit over time was analyzed.
+8. Mike Johnson is the patient that has the highest number of visits in a single day (2022-05-20).
+
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/509b1f5e-0e7b-4442-bb72-10c8eb9148f7)
+
+9. The descending order of average age of patients for each diagnosis started from COVID-19 (52.5) and ends with Bronchitis (30).
+
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/5e530056-926e-4c25-906f-657872875685)
+
+10. The cumulative count of each visit over time was analyzed.
+
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/3ec854d5-f419-4d61-8d2d-1104462b2556)
+
