@@ -101,7 +101,7 @@ GROUP BY
 /*8. Write a SQL query to find the patient who has the highest 
 number of visits in a single day, along with the corresponding visit date.*/
 SELECT 
-    visits.visit_date, patients.patient_name, COUNT (visits.patient_id) AS no_of_visits
+    visits.visit_date, patients.patient_name, COUNT(visits.patient_id) AS no_of_visits
 FROM 
     visits
 JOIN 
@@ -134,7 +134,7 @@ ORDER BY
 /*10. Write a SQL query to calculate the cumulative count of visits 
 over time, ordered by the visit date.*/
 SELECT 
-    COUNT (visits.patient_id) AS no_of_visit, (SELECT DISTINCT visits.visit_date) AS date_visited
+    COUNT(visits.patient_id) AS no_of_visit, (SELECT DISTINCT visits.visit_date) AS date_visited
 FROM 
     visits
 GROUP BY 
