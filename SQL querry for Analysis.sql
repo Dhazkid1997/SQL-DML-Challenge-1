@@ -59,7 +59,7 @@ LIMIT
 /*5. Write a SQL query to retrieve the patient who has the 
 highest number of different symptoms reported.*/
 SELECT DISTINCT 
-    patients.patient_name, COUNT (visits.symptom_id) AS no_of_symptoms
+    patients.patient_name, COUNT(visits.symptom_id) AS no_of_symptoms
 FROM 
     visits
 JOIN 
@@ -89,7 +89,7 @@ WHERE
 /*7. Write a SQL query to retrieve the top 5 cities with the highest number of visits, 
 along with the count of visits in each city.*/
 SELECT DISTINCT 
-    patients.city, COUNT (visits.patient_id) AS no_of_visit
+    patients.city, COUNT(visits.patient_id) AS no_of_visit
 FROM 
     visits
 JOIN 
