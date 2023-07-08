@@ -30,41 +30,40 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 # Findings and Recommendations
 1. David Kim and John Smith were diagnosed with COVID-19.
 
-![1](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/b7db01fa-af29-4de7-ac19-720ab113df08)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/74bed255-e1ee-4a8a-b98e-b50aacf01f6d)
 
 2. John Smith and Mike Johnson visited 3 times, Jane Doe visited twice, and others visited once.
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/752873b0-2af4-4efe-86b3-e71b1657a7c2)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/e7ff515c-8956-4a64-a9ef-bba42a995b0c)
 
 3. 50 years is the average age of a patient diagnosed with Pneumonia.
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/6518332e-1ef4-4373-bb70-fba8f219bfa2)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/571f3cdd-1d20-4518-8678-cceacebc5d17)
 
 4. Cough, Fever and Fatigue are the top 3 most common symptoms among all visits.
 
-  ![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/7689c252-d72c-4d02-9331-8ba2278929f4)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/1e8eb937-1cb7-45be-8d9a-8946c28f9e67)
 
 5. John Smith and Mike Johnson have the highest number of different symptoms reported.
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/e8b5957f-1b2d-4561-b89b-ef8b0a45f4eb)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/9492f9f9-9b98-45e7-abd5-e6e26e1bb496)
 
 6. 40 is the percentage of patients who have been diagnosed with COVID-19 out of the total number of patients.
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/1dab544f-dc7b-448a-b102-8ab362d60f77)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/6aaab657-c30a-44e4-ae6a-addbee1b9c13)
 
 7. Seattle, Miami and Chicago are the top 3 cities with the highest number of visits(Only three (3) cities on the table).
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/8060866d-235e-41b2-8693-3f936a98954a)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/c75a7765-ebd5-4623-9139-995a345b3412)
 
 8. Mike Johnson is the patient that has the highest number of visits in a single day (2022-05-20).
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/509b1f5e-0e7b-4442-bb72-10c8eb9148f7)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/ef61dde9-fe59-4743-8dca-b58407f504a2)
 
 9. The descending order of average age of patients for each diagnosis started from COVID-19 (52.5) and ends with Bronchitis (30).
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/5e530056-926e-4c25-906f-657872875685)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/55be40f0-4d4e-4116-bb66-3b9f8e09f3ff)
 
 10. The cumulative count of each visit over time was analyzed.
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/3ec854d5-f419-4d61-8d2d-1104462b2556)
-
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/a10027c3-5b8e-4ef3-8ef4-dfb8f6c733a8)
