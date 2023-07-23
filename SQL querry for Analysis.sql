@@ -8,9 +8,7 @@ INNER JOIN
 INNER JOIN
     diagnoses ON visits.diagnosis_id=diagnoses.diagnosis_id
 WHERE 
-    diagnoses.diagnosis_name = "COVID-19"
-GROUP BY
-    patients.patient_id;
+    diagnoses.diagnosis_name = "COVID-19";
 
 
 /*2. Write a SQL query to retrieve the number of visits made by each patient, 
