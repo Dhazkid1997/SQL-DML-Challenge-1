@@ -30,7 +30,7 @@ I used SELECT STATEMENT, JOIN, WHERE CLAUSE, GROUP BY, DISTINCT, ORDER BY and LI
 # Findings and Recommendations
 1. David Kim and John Smith were diagnosed with COVID-19.
 
-![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/74bed255-e1ee-4a8a-b98e-b50aacf01f6d)
+![image](https://github.com/Dhazkid1997/SQL-DML-Challenge-1/assets/116466737/0539ca8c-a2c2-4c5b-9eea-4cfbb3c75e85)
 
 2. John Smith and Mike Johnson visited 3 times, Jane Doe visited twice, and others visited once.
 
